@@ -21,17 +21,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /portfolio
+logoURL: /portfolio2
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /portfolio
-header-item2-link: /portfolio/about
-header-item3-link: /portfolio/blogs
-header-item4-link: /portfolio/projects
+header-item1-link: /portfolio2
+header-item2-link: /portfolio2/about
+header-item3-link: /portfolio2/blogs
+header-item4-link: /portfolio2/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: https://twitter.com/Tanisha_modii
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -45,7 +45,7 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 
 -- toast.stack: 
 title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+link: https://github.dev/tanisha-modi/
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Tanisha Modi,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -95,11 +95,11 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:tanishamodi12@gmail.com
 
 -- button.primary: 
-title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+title: Resume
+link: /portfolio2/resume
 isNewTab: true
 
 -- end: ftd.row
@@ -117,27 +117,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/tanisha-modi/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://twitter.com/Tanisha_modii
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/tanisha-modi
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: https://instagram.com
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: https://Youtube.com
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:tanishamodi12@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
